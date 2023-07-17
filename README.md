@@ -26,7 +26,7 @@
 - ❌ التطبيق متاح للأندرويد فقط حاليا.
 
 ## تحميل التطبيق
-
+تجد إصدارات التطبيق كلها [هنا](https://github.com/Sraq-Zit/Mujallad/releases).
 
 ## المصدر
 الاصل أن يكون التطبيق مغتوح المصدر، لكن حاليا هو مغلق حتى إصدار قادم
@@ -35,11 +35,19 @@
 ## مراجع
 - [مكتبة نور](https://www.noor-book.com/)
 - [التطبيق الأساس لـJideGuru](https://github.com/JideGuru/FlutterEbookApp)
-- مصمم الشعار: [زكرياء شهبون](https://twitter.com/zaki_chahboun)
+- مصمم الشعار: [تويتر](https://twitter.com/zaki_chahboun)، [بسام](https://bassam.social/@zaki)
 - [Flutter](https://flutter.dev/)
 
 
 ## الصور
+
+| الوضع النهاري     |                          الوضع الليلي                     |
+| ------------------------------------- | ------------------------------------- |
+| ![](https://raw.githubusercontent.com/Sraq-Zit/Mujallad/master/assets/screenshots/ar/light/Screenshot-1.png)  | ![](https://raw.githubusercontent.com/Sraq-Zit/Mujallad/master/assets/screenshots/ar/dark/Screenshot-1.png)  |
+| ![](https://raw.githubusercontent.com/Sraq-Zit/Mujallad/master/assets/screenshots/ar/light/Screenshot-2.png)  | ![](https://raw.githubusercontent.com/Sraq-Zit/Mujallad/master/assets/screenshots/ar/dark/Screenshot-2.png)  |
+| ![](https://raw.githubusercontent.com/Sraq-Zit/Mujallad/master/assets/screenshots/ar/light/Screenshot-3.png)  | ![](https://raw.githubusercontent.com/Sraq-Zit/Mujallad/master/assets/screenshots/ar/dark/Screenshot-3.png)  |
+| ![](https://raw.githubusercontent.com/Sraq-Zit/Mujallad/master/assets/screenshots/ar/light/Screenshot-4.png)  | ![](https://raw.githubusercontent.com/Sraq-Zit/Mujallad/master/assets/screenshots/ar/dark/Screenshot-4.png)  |
+| ![](https://raw.githubusercontent.com/Sraq-Zit/Mujallad/master/assets/screenshots/ar/light/Screenshot-5.png)  | ![](https://raw.githubusercontent.com/Sraq-Zit/Mujallad/master/assets/screenshots/ar/dark/Screenshot-5.png)  |
 
 
 ## الترخيص
